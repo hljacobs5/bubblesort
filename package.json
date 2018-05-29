@@ -1,0 +1,27 @@
+{
+  "name": "@hljacobs/bubblesort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hljacobs5/bubblesort.git"
+  },
+  "author": "Haley Jacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hljacobs5/bubblesort/issues"
+  },
+  "homepage": "https://github.com/hljacobs5/bubblesort#readme"
+}
